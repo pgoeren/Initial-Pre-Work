@@ -1,0 +1,11 @@
+<!-- I learned how any element can be stylized even if it is the body tags -->
+
+<style>
+  body {
+    background-color: black;
+    color: green;
+    font-family:monospace;
+   }
+
+</style>
+<h1>Hello World</h1>
