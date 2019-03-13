@@ -1,0 +1,7 @@
+//I learned about how operators assign values to a variable
+
+// Example
+var ourVar = 19;
+
+// Only change code below this line
+var a = 9;
