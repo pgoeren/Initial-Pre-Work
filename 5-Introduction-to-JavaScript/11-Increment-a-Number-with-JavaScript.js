@@ -1,4 +1,4 @@
-//I learned that i++ is an incriment number that can be applied to any variable
+//I learned that i++ is an increment number that can be applied to any variable
 
 var myVar = 87;
 
